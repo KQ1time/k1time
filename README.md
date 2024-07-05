@@ -2,7 +2,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Researcher quantum mechanics and mathematics</h3>
 <h1>About me</h1>
-<h3>I am a researcher in the field of quantum mechanics and mathematics. I enjoy solving complex problems.⚛️</h3>
+<h3>I enjoy solving complex problems in math and physics.⚛️</h3>
+<br><br>
+
+- 🔭 I’m currently working on algoritms
+- 🌱 I’m currently learning Python
+- 😄 hobbies: Math, physics, coding, ML
+- ⚡ Fun fact: coding for fun
+
 <br><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1time&theme=default)
