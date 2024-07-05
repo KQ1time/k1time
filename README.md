@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Researcher quantum mechanics and mathematics</h3>
 <h1>About me</h1>
+<h3>I am a researcher in the field of quantum mechanics and mathematics. I enjoy solving complex problems.⚛️</h3>
+<br><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1time&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1time&theme=default)
