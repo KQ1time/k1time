@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently learning Computer science
 - 🌱 I’m currently learning Python
-- 😄 hobbies: Math, physics, coding, ML
-- ⚡ Fun fact: I enjoy math)
+- 😄 hobbies: Chess, physics
 
 <br><br>
 
