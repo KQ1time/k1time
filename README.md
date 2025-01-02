@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/k1time/" target="_blank">K1time</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Researcher</h3>
+<h3 align="center">Coder</h3>
 <h1>About me</h1>
 <h3>I enjoy solving complex problems in math and physics.⚛️</h3>
 <br><br>
