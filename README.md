@@ -6,7 +6,7 @@
 <br><br>
 
 - 🔭 I’m currently learning Computer science
-- 🌱 Python is my main language
+- 🌱 Python is my main programming language
 - 😄 languages: English, Japanese
 
 <br><br>
