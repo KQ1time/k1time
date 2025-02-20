@@ -5,7 +5,7 @@
 <h3>I enjoy math.⚛️</h3>
 <br><br>
 
-- 🔭 I’m currently learning Computer science
+- 🔭 I currently learning Computer science
 - 🌱 Python is my main programming language
 - 😄 I speak: English, Japanese
 
