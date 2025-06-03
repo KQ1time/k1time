@@ -2,12 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Welcome</h3>
 <h1>About me</h1>
-<h3>I enjoy math.⚛️</h3>
+<h3>I enjoy math.</h3>
 <br><br>
 
-- 🔭 I currently learning Computer science
-- 🌱 Python is my main programming language
-- 😄 I speak: English, Russian
+- 🔭 I learn computer science;
+- 🌱 Python is my main programming language;
+- 😄 I speak: English, Russian.
 
 <br><br>
 
