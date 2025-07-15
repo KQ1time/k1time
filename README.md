@@ -5,7 +5,7 @@
 <h3>I enjoy math.</h3>
 <br><br>
 
-- 🔭 I learn computer science;
+- 🔭 I learn computer science and AI;
 - 🌱 Python is my main programming language;
 - 😄 I speak: English, Russian.
 
